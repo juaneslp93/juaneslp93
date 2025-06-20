@@ -16,7 +16,7 @@
 
 - 🌱 I used daily: **SQL, Php, JS, MySQL, Python, CSS**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/juaneslp93?tab=repositories](https://github.com/juaneslp93?tab=repositories)
+- 👨‍💻 Some of my projects are available at [Repos](https://github.com/juaneslp93?tab=repositories)
   
 - 📫 How to reach me **juaneslp93@gmail.com**
 
